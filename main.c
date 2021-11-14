@@ -5,7 +5,7 @@
     This file is part of the final projects for the B.Sc. in Computer Science & Engineering at Polytechnic University of Milan.
     
     The following piece of software refers to the Algorithms & Data Structures course.
-	Its specifications have been presented during the academic year 2020-2021.
+    Its specifications have been presented during the academic year 2020-2021.
 */
 
 #include <stdio.h>
